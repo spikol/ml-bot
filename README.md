@@ -22,4 +22,4 @@ these packages should be places in the following directory:
 If there the files already exist in the directory keep the original files.
 
 Windows:
-Copy folder ```site-packages.zip``` to be found at ```https://drive.google.com/file/d/19VvNa9FofgUnf4KDiEXYMXadnasbV6P_/view?usp=sharing``` into ```C:\Program Files\Fable\resources\app.asar.unpacked\prod\app\server``` this will copy all the required packages for the Fable 2.0.4 software to use. When presented with duplicate files select to keep the old original files.
+Copy folder ```site-packages.zip``` to be found at https://drive.google.com/file/d/19VvNa9FofgUnf4KDiEXYMXadnasbV6P_/view?usp=sharing into ```C:\Program Files\Fable\resources\app.asar.unpacked\prod\app\server``` this will copy all the required packages for the Fable 2.0.4 software to use. When presented with duplicate files select to keep the old original files.
