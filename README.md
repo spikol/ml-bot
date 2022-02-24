@@ -22,7 +22,7 @@ these packages should be places in the following directory:
 If there the files already exist in the directory keep the original files.
 
 Windows:
-Download the Windows 64-bit version of Fable 2.0.4 from the Shape Robotics sites
+Download the Windows 64-bit version of Fable 2.0.4 from the Shape Robotics sites\\
 Download the Python 3.8 version of Miniconda3 Windows 64-bit from https://docs.conda.io/en/latest/miniconda.html
   Select 'Add Miniconda3 to my path environment variable' in the installation process
 Open Anaconda Prompt and create an enviroment for your Fable installation. By using ```conda create --name fable``` command.
