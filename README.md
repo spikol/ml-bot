@@ -13,6 +13,8 @@ List of packages and files to be installed:
 - tensorflow 2.4.3
 - numpy	1.19.2
 - Pillow 7.2.0
+- FER
+- grpc
 - The folder ```xml```
 - The file ```timeit.py```
 
