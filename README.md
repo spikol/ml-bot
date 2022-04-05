@@ -26,10 +26,10 @@ If there the files already exist in the directory keep the original files.
 1. Download the Windows 64-bit version of Fable 2.0.4 from the Shape Robotics sites
 2. Download the Python 3.8 version of Miniconda3 Windows 64-bit from https://docs.conda.io/en/latest/miniconda.html
 3. Select 'Add Miniconda3 to my path environment variable' in the installation process
-3. Open Anaconda Prompt and create an enviroment for your Fable installation. By using ```conda create --name fable``` command.
+3. Open Anaconda Prompt and create an environment for your Fable installation. By using ```conda create --name fable``` command.
 4. Activate environment using ```conda activate fable```
 5. Use pip install to install the packages shown above
-6. Copy the installed packages from the Anaconda Fable enviroment into the program files of the Fable Blockly software.
+6. Copy the installed packages from the Anaconda Fable environment into the program files of the Fable Blockly software.
 7. The installed packages are folders and files and can be found in the ```Miniconda3\Lib\site-packages``` folder and are identified by comparing the date modified column with the time the package installation started.
 8. The destination is ```C:\Program Files\Fable\resources\app.asar.unpacked\prod\app\server``` 
 9. When presented with duplicate files select keep the files already present in the server folder
